@@ -7,7 +7,7 @@ Landing page moderna e responsiva desenvolvida para captação de leads através
 
 Uma landing page elegante com design minimalista e foco em conversão. A página apresenta um formulário de inscrição para newsletter com campos para nome, e-mail e senha, além de uma navegação intuitiva com seções de Início, Serviços, Sobre e Contato.
 
-O design utiliza uma paleta de cores em tons de azul escuro (#1a1f3a) combinado com elementos visuais modernos e ilustrações que transmitem profissionalismo e confiança.
+O design utiliza uma paleta de cores em tons de azul escuro (#1a1f3a) combinado com elementos visuais modernos e ilustrações que transmitem minimalismo e simplicidade.
 
 ## 🚀 Tecnologias Utilizadas
 
