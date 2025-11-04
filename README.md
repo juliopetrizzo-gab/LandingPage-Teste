@@ -4,5 +4,5 @@
 - Estudando Html, CSS e JS
 - Pronomes: Ele/Dele
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioPetrizzo&show_icons=true&theme=tokyonight)
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliopetrizzo-gab&show_icons=true&theme=tokyonight)
 
