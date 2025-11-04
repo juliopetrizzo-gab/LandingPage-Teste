@@ -1,0 +1,20 @@
+@media screen and (max-width: 760px){
+   header{
+    flex-direction: color;
+   }
+   main{
+    flex-direction: column;
+   }
+   h2{
+    font-size: 40px;
+   }
+   form{
+    margin: 0 auto;
+   }
+   input{
+    align-self: center;
+   }
+   img{
+    width: 450px;
+   }
+ }
